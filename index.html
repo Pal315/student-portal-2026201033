@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Portal — Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Student Portal</h1>
+    <p id="loginError" class="error" style="display:none;">Invalid username or password.</p>
+    <form id="loginForm">
+      <label for="username">Username</label>
+      <input type="text" id="username" placeholder="e.g. jane.doe" required>
+
+      <label for="password">Password</label>
+      <input type="password" id="password" placeholder="Enter your password" required>
+
+      <button type="submit">Log In</button>
+    </form>
+    <p class="muted">Demo credentials: student / student123</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
