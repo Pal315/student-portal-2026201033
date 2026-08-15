@@ -18,3 +18,14 @@ manage their profile, and update settings.
 ## Usage
 Log in with the demo credentials shown on the login page, then use the top navigation
 bar to move between Dashboard, Profile, and Settings.
+
+## Folder Structure
+```
+student-portal/ 
+├── index.html 
+├── dashboard.html 
+├── profile.html 
+├── settings.html 
+├── style.css 
+└── script.js
+```
