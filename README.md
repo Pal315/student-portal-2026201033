@@ -29,3 +29,6 @@ student-portal/
 ├── style.css 
 └── script.js
 ```
+
+## License
+This project is for educational purposes as part of a Git lab activity.
