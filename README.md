@@ -14,3 +14,7 @@ manage their profile, and update settings.
 ## Installation
 1. Clone the repository: `git clone https://github.com/<you>/student-portal.git`
 2. Open `index.html` in your browser (no build step required).
+
+## Usage
+Log in with the demo credentials shown on the login page, then use the top navigation
+bar to move between Dashboard, Profile, and Settings.
