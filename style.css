@@ -117,3 +117,5 @@ nav a:hover {
 .deadline-list .subject { font-weight: 600; color: #222; }
 .deadline-list .topic { color: #555; }
 .deadline-list .due { color: #c0392b; font-size: 12px; margin-top: 2px; }
+
+/* TODO: add dark mode variables */
