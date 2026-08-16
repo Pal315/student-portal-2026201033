@@ -34,4 +34,4 @@ student-portal/
 Built as part of a Git version control lab exercise.
 
 ## License
-This project is for educational purposes as part of a Git lab activity.
+This project is for educational purposes as part of a Git lab activity. Feedback welcome!
