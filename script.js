@@ -21,7 +21,7 @@ if (loginForm) {
 const saveProfileBtn = document.getElementById("saveProfile");
 if (saveProfileBtn) {
   saveProfileBtn.addEventListener("click", function () {
-    alert("Profile changes saved.");
+    alert("All set! Your changes have been saved.");
   });
 }
 
