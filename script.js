@@ -9,7 +9,7 @@ if (loginForm) {
     const password = document.getElementById("password").value.trim();
     const error = document.getElementById("loginError");
 
-    if (username === "student" && password === "student123") {
+    if (username === "Pal Shah" && password === "Palshah123") {
       window.location.href = "dashboard.html";
     } else {
       error.style.display = "block";
